@@ -1,0 +1,6 @@
+{
+  "name": "Third Echo Labs",
+  "description": "Next-generation software and hardware engineering systems for defense, aerospace, and mission-critical applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
